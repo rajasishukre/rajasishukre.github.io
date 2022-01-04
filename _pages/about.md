@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Prof_pic.jpg
   address: >
     <p>202</p>
     <p>Livermore Centre</p>
@@ -18,10 +18,10 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a PhD candidate at Department of Chemical Engineering, Texas Tech University. My thesis work is based on the hydrodynamics of needle-free jet injections. My research work lies at the interface of transport phenomenon and drug delivery. 
-
+<!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-<!--
+
     this is a an html comment.
     the bad part of this is that it will appear in
     any document you generate from this markdown, such as if
