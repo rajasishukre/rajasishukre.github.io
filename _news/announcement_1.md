@@ -4,4 +4,4 @@ date: 2015-10-22 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+I will be presenting our work on Spark-induced jets at APS March Meeting, Chichago!
