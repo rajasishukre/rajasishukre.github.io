@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: pic.jpg
+  image: {pic.jpg}{width: 200px;}
   address:  
 
 news: true  # includes a list of news items
