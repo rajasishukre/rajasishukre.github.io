@@ -1,7 +1,7 @@
 ---
 layout: About
 title: About
-permalink: /
+permalink: /about
 subtitle:   
 
 profile:
