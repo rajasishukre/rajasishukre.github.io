@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: pic.jpg
+  image: DSC_00582.jpeg
   address:  
 
 
