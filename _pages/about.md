@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: IMG_0453.jpeg
+  image: IMG_0453.JPG
   address:  
 
 
