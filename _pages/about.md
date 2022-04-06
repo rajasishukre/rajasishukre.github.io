@@ -6,13 +6,13 @@ subtitle:
 
 profile:
   align: right
-  image: DSC_0453.jpeg
+  image: IMG_0453.jpeg
   address:  
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 ---
 
 I am a fifth year PhD candidate at the Department of Chemical Engineering, Texas Tech University. Currently I am working with Dr. Chau-Chyun Chen.
