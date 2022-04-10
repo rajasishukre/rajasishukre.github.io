@@ -19,9 +19,6 @@
             {%- if site.linkedin_username -%}
             <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
             {% endif %}
-            {%- if site.CV_file -%}
-            <a href="https://rajasishukre.com/assets/pdf/{{ site.CV_file }}" title="CV"><i class="fa fa-file-pdf-o"></i></a>
-            {% endif %}
             {%- if site.twitter_username -%}
             <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter"><i class="fab fa-twitter"></i></a>
             {% endif %}
@@ -57,4 +54,7 @@
             {% endif %}
             {%- if site.rss_icon -%}
             <a href="{{ site.baseurl | prepend: site.url }}/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>
+            {% endif %}
+            {%- if site.CV_file -%}
+            <a href="https://rajasishukre.com/assets/pdf/{{ site.CV_file }}" title="CV"><i class="fa fa-file" aria-hidden="true"></i></a>
             {% endif %}
