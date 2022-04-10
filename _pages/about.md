@@ -12,7 +12,7 @@ profile:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 ---
 
 I am a fifth year PhD Candidate in the Department of Chemical Engineering at **Texas Tech University** (TTU). I have a bachelor’s degree in Chemical Engineering from Laxminarayan Institute of Technology (LIT), India, and I was a former Process Engineer in the New Delhi office of **Fluor Corporation** for two years before joining Graduate School in the United States. **I am actively seeking opportunities for work in the fields of molecular modeling and simulations, process modeling and optimization, and process intensification.** 
