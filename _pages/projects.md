@@ -17,7 +17,6 @@ My PhD thesis at TTU is centered on the multifaceted field of adsorption in 3D p
 
 **Estimation of the binary interaction parameter of the aNRTL model using molecular simulations**
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/P_197_CH4_143_t0001.png" title="Molecular simulation" class="img-fluid rounded z-depth-1" %}
