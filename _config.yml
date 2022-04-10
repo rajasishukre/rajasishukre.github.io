@@ -57,6 +57,7 @@ github_username: rajasishukre # payour GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: rajasishukre # your Twitter handle
 linkedin_username: rajasishukre # your LinkedIn user name
+CV_file:
 scholar_userid: REpJvcgAAAAJ # your Google Scholar ID
 orcid_id:   # your ORCID ID
 medium_username: # your Medium username
@@ -69,7 +70,8 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
-
+         
+            
 rss_icon: false
 
 contact_note: >
