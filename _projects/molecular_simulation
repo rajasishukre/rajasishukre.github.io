@@ -2,22 +2,20 @@
 layout: page
 title: Molecular Simulation
 description:  
-img: assets/img/12.jpg
+img: assets/img/P_197_CH4_143_t0001.png
 importance: 1
 category: work
 ---
 <!-- h 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+ 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The equilibrium molecular snapshots of gas molecules (pure component and binary mixtures) adsorbed inside the 3D pores of various adsorbents such as MOFs and zeolites as well as on the surface of exfoliated graphite are captured using simulation tools such as Molecular Dynamics and Monte Carlo simulations. The configurational and energetic landscape of the adsorbed phase generated in the simulations enables the estimation of the binary interaction parameter of the adsorption Non-Random Two-Liquid (aNRTL) model. This is a thermodynamic model, and it successfully represents both ideal and non-ideal binary gas adsorption over various adsorbent structures with low deviations in comparison to the experimental data. The adsorbed phase for a binary gas mixture can be both ideal and non-ideal, depending on the competitive interactions of the two gas molecules with the atoms of the adsorbent. This nature of the adsorbed phase is captured by the regression of the binary interaction parameter of the aNRTL model. The formulation of the model is based on the local composition theory, which is well-rooted in Statistical Thermodynamics. Thus, the molecular simulations are an ideal tool to identify the various adsorption sites and determine the specific site selectivity for a particular gas molecule, depending on the potential energy and configuration of the molecules surrounding the given site. This is an ongoing project and the manuscript will be submitted soon.
 
     ---
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/P_197_CH4_143_t0001.png
     ---
 
 <div class="row">
