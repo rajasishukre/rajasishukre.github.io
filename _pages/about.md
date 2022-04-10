@@ -32,6 +32,8 @@ I am passionate about developing sustainable solutions to engineering challenges
 
 For a detailed description of my projects, please see the Projects Tab.
 
+Please find my most recent CV <a href="https://rajasishukre.com/assets/pdf/CV.pdf">here</a>.
+
 
 
 [//]: # ( Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]http://reddit.com. You can put a picture in, too. The code is )
