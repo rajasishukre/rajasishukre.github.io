@@ -5,7 +5,7 @@ permalink: /
 subtitle:   
 
 profile:
-  align: left
+  align: right
   image: rajasi.jpeg
   address:  
 
